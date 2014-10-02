@@ -1,0 +1,1 @@
+scp -r nombre_carpeta nombre_user@ip:ruta_archivo

@@ -16,7 +16,7 @@ Creación del entorno de trabajo
 ==============================
 Se crea asi un entorno de trabajo virtual una vez instalado virtualenvwrapper::
 
-     $ mkproject django_projects/dirmod.asp?sid=&type=gen&mod=Core+Pages&gid=A6CD4967199A42D9B65B1B”. You will b
+     $ mkproject django_project
 
 Instalación de DJANGO
 =====================
@@ -49,4 +49,4 @@ Para Producción::
 Para generar modelos gráficos de tus aplicaciones
 =================================================
 Escribe el siguiente comando::
-     $ python manage.py graph_models -a -g -o mi_modelo.png
+     python manage.py graph_models -a -g -o mi_modelo.png
