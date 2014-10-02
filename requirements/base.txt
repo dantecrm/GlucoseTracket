@@ -3,5 +3,9 @@ bpython
 django-braces
 django-model-utils
 logutils
+django-extensions
 
 -e git+https://github.com/sehmaschine/django-grappelli.git@dev/2.6.x#egg=django-grappelli
+
+# App para controlar el login
+-e git+http://github.com/django-security/django-axes.git#egg=django_axes-dev

@@ -46,5 +46,7 @@ Para Producción::
    
      $ pip install -r requirements.txt
 
-
-
+Para generar modelos gráficos de tus aplicaciones
+=================================================
+Escribe el siguiente comando::
+     python manage.py graph_models -a -g -o mi_modelo.png

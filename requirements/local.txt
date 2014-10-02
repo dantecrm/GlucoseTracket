@@ -10,3 +10,9 @@ Sphinx
 
 # Time-zone field para django 1.7
 -e git+https://github.com/anhtran/django-timezone-field.git@develop#egg=django-timezone-field
+
+
+#Libreria que necesita el kernel(Linux), libreria que genera la imagen
+#no olvidar instalar: sudo apt-get install graphviz libgraphviz-dev pkg-config
+pygraphviz
+
